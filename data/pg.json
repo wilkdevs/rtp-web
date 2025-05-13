@@ -1,0 +1,3499 @@
+[
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-0001.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 100",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:22 - 17:46",
+        "gamePercent": "82",
+        "gameLevel": "hot-game"
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-0002.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:03 - 16:39",
+        "gamePercent": "63",
+        "gameLevel": "hot-game"
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-0003.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:31 - 14:43",
+        "gamePercent": "31",
+        "gameLevel": "hot-game"
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-004.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 10",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 20",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 30",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:24 - 13:12",
+        "gamePercent": "84",
+        "gameLevel": "hot-game"
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-005.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 50",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:08 - 15:44",
+        "gamePercent": "68",
+        "gameLevel": "hot-game"
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-006.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 10",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 20",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 30",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:30 - 13:30",
+        "gamePercent": "90",
+        "gameLevel": "hot-game"
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-007.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:33 - 16:09",
+        "gamePercent": "33",
+        "gameLevel": "hot-game"
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-008.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 50",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:09 - 16:57",
+        "gamePercent": "69",
+        "gameLevel": "hot-game"
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-009.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 30",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:25 - 14:25",
+        "gamePercent": "85",
+        "gameLevel": "hot-game"
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-010.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:09 - 16:57",
+        "gamePercent": "69",
+        "gameLevel": "hot-game"
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-011.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:03 - 16:39",
+        "gamePercent": "63",
+        "gameLevel": "top-game"
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-012.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:47 - 18:11",
+        "gamePercent": "47",
+        "gameLevel": "top-game"
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-013.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:43 - 14:19",
+        "gamePercent": "43",
+        "gameLevel": "top-game"
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-014.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:03 - 16:39",
+        "gamePercent": "63",
+        "gameLevel": "top-game"
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-015.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:07 - 14:31",
+        "gamePercent": "67",
+        "gameLevel": "top-game"
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-016.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 50",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:57 - 16:21",
+        "gamePercent": "57",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-017.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:45 - 16:45",
+        "gamePercent": "45",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-018.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 100",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 20",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:05 - 18:05",
+        "gamePercent": "65",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-019.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:39 - 16:27",
+        "gamePercent": "39",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-020.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 50",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:27 - 16:51",
+        "gamePercent": "87",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-021.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 10",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:55 - 14:55",
+        "gamePercent": "55",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-022.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 20",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:37 - 14:01",
+        "gamePercent": "97",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-023.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 10",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 30",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:35 - 18:35",
+        "gamePercent": "35",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-024.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 20",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:59 - 18:47",
+        "gamePercent": "59",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-025.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:49 - 14:37",
+        "gamePercent": "49",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-026.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:23 - 18:59",
+        "gamePercent": "83",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-028.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:19 - 14:07",
+        "gamePercent": "79",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-029.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:35 - 18:35",
+        "gamePercent": "95",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-030.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:45 - 16:45",
+        "gamePercent": "45",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-031.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 20",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:31 - 14:43",
+        "gamePercent": "31",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-032.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:09 - 16:57",
+        "gamePercent": "69",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-033.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 20",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 100",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:55 - 14:55",
+        "gamePercent": "55",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-034.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:07 - 14:31",
+        "gamePercent": "67",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-035.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 20",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 20",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:31 - 14:43",
+        "gamePercent": "91",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-036.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:13 - 14:49",
+        "gamePercent": "73",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-037.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 100",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:41 - 18:53",
+        "gamePercent": "41",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-038.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 10",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:55 - 14:55",
+        "gamePercent": "55",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-039.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:11 - 18:23",
+        "gamePercent": "71",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-040.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 10",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:35 - 18:35",
+        "gamePercent": "95",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-041.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 50",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:21 - 16:33",
+        "gamePercent": "81",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-042.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:45 - 16:45",
+        "gamePercent": "45",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-043.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:09 - 16:57",
+        "gamePercent": "69",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-044.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 30",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:25 - 14:25",
+        "gamePercent": "85",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-045.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 20",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:35 - 18:35",
+        "gamePercent": "35",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-046.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 10",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:35 - 18:35",
+        "gamePercent": "95",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-047.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 100",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:59 - 18:47",
+        "gamePercent": "59",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-048.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [],
+        "gameHour": "13:27 - 16:51",
+        "gamePercent": "27",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-049.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 50",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:39 - 16:27",
+        "gamePercent": "39",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-050.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:03 - 16:39",
+        "gamePercent": "63",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-051.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:53 - 18:29",
+        "gamePercent": "53",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-052.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 70",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:27 - 16:51",
+        "gamePercent": "87",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-053.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 100",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:23 - 18:59",
+        "gamePercent": "83",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-054.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [],
+        "gameHour": "13:25 - 14:25",
+        "gamePercent": "25",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-055.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 20",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 100",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:49 - 14:37",
+        "gamePercent": "49",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-056.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 10",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 30",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:35 - 18:35",
+        "gamePercent": "35",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-057.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 20",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:13 - 14:49",
+        "gamePercent": "73",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-058.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:43 - 14:19",
+        "gamePercent": "43",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-059.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 100",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:59 - 18:47",
+        "gamePercent": "59",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-060.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 10",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:23 - 18:59",
+        "gamePercent": "83",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-061.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:09 - 16:57",
+        "gamePercent": "69",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-062.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:33 - 16:09",
+        "gamePercent": "33",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-063.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 20",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:43 - 14:19",
+        "gamePercent": "43",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-064.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 10",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:59 - 18:47",
+        "gamePercent": "59",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-065.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 100",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:23 - 18:59",
+        "gamePercent": "83",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-066.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:13 - 14:49",
+        "gamePercent": "73",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-067.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 50",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:33 - 16:09",
+        "gamePercent": "33",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-068.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 10",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:35 - 18:35",
+        "gamePercent": "95",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-069.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 50",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:45 - 16:45",
+        "gamePercent": "45",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-070.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 10",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:31 - 14:43",
+        "gamePercent": "31",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-071.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:57 - 16:21",
+        "gamePercent": "57",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-072.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 70",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:27 - 16:51",
+        "gamePercent": "87",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-073.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 20",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:35 - 18:35",
+        "gamePercent": "35",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-075.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:49 - 14:37",
+        "gamePercent": "49",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-076.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 50",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 100",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:21 - 16:33",
+        "gamePercent": "81",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-077.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 70",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:27 - 16:51",
+        "gamePercent": "87",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-078.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [],
+        "gameHour": "13:29 - 18:17",
+        "gamePercent": "29",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-080.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:19 - 14:07",
+        "gamePercent": "79",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-081.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 20",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:37 - 14:01",
+        "gamePercent": "37",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-082.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 10",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 30",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:05 - 18:05",
+        "gamePercent": "65",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-083.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:33 - 16:09",
+        "gamePercent": "33",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-087.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [],
+        "gameHour": "13:29 - 18:17",
+        "gamePercent": "29",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-088.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 20",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:01 - 14:13",
+        "gamePercent": "61",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-089.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 10",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:53 - 18:29",
+        "gamePercent": "53",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-090.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 20",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:47 - 18:11",
+        "gamePercent": "47",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-091.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:03 - 16:39",
+        "gamePercent": "63",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-092.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:17 - 18:41",
+        "gamePercent": "77",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-093.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [],
+        "gameHour": "13:29 - 18:17",
+        "gamePercent": "29",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-094.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:35 - 18:35",
+        "gamePercent": "95",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-095.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 70",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 10",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:33 - 16:09",
+        "gamePercent": "93",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-096.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 20",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:35 - 18:35",
+        "gamePercent": "35",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-097.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:45 - 16:45",
+        "gamePercent": "45",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-098.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:45 - 16:45",
+        "gamePercent": "45",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-099.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:37 - 14:01",
+        "gamePercent": "37",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-100.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 20",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:35 - 18:35",
+        "gamePercent": "35",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-101.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:51 - 16:03",
+        "gamePercent": "51",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-102.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 10",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:12 - 13:36",
+        "gamePercent": "72",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-103.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 10",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 30",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:35 - 18:35",
+        "gamePercent": "35",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-104.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [],
+        "gameHour": "13:27 - 16:51",
+        "gamePercent": "27",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-105.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 10",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:07 - 14:31",
+        "gamePercent": "67",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-106.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 50",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:27 - 16:51",
+        "gamePercent": "87",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-107.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 10",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 30",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:05 - 18:05",
+        "gamePercent": "65",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-108.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 20",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:49 - 14:37",
+        "gamePercent": "49",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-109.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:13 - 14:49",
+        "gamePercent": "73",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-110.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 70",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 20",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:22 - 17:46",
+        "gamePercent": "82",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-111.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 70",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 10",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:15 - 16:15",
+        "gamePercent": "75",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-112.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 100",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:53 - 18:29",
+        "gamePercent": "53",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-113.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 10",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:23 - 18:59",
+        "gamePercent": "83",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-114.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [],
+        "gameHour": "13:29 - 18:17",
+        "gamePercent": "29",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-115.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 70",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 10",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:33 - 16:09",
+        "gamePercent": "93",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-116.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 20",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:49 - 14:37",
+        "gamePercent": "49",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-118.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:45 - 16:45",
+        "gamePercent": "45",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-119.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 20",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:01 - 14:13",
+        "gamePercent": "61",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-120.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 10",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:29 - 18:17",
+        "gamePercent": "89",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-121.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 20",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 20",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:19 - 14:07",
+        "gamePercent": "79",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-122.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 10",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 30",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:35 - 18:35",
+        "gamePercent": "35",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-123.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 20",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:19 - 14:07",
+        "gamePercent": "79",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-124.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 10",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:35 - 18:35",
+        "gamePercent": "95",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-125.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 20",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:49 - 14:37",
+        "gamePercent": "49",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-126.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 10",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:31 - 14:43",
+        "gamePercent": "31",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-127.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:09 - 16:57",
+        "gamePercent": "69",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-128.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 70",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:27 - 16:51",
+        "gamePercent": "87",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-129.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [],
+        "gameHour": "13:25 - 14:25",
+        "gamePercent": "25",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-130.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 10",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:11 - 18:23",
+        "gamePercent": "71",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-131.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:03 - 16:39",
+        "gamePercent": "63",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-132.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:37 - 14:01",
+        "gamePercent": "97",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-134.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:15 - 16:15",
+        "gamePercent": "75",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-135.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:49 - 14:37",
+        "gamePercent": "49",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-136.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:17 - 18:41",
+        "gamePercent": "77",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-137.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 10",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:31 - 14:43",
+        "gamePercent": "31",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-138.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 20",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:05 - 18:05",
+        "gamePercent": "65",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-139.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:43 - 14:19",
+        "gamePercent": "43",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-140.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 20",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 100",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:55 - 14:55",
+        "gamePercent": "55",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-141.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 10",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:41 - 18:53",
+        "gamePercent": "41",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-142.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:33 - 16:09",
+        "gamePercent": "33",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-143.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:07 - 14:31",
+        "gamePercent": "67",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-144.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 50",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:45 - 16:45",
+        "gamePercent": "45",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-145.jpg",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 70",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:33 - 16:09",
+        "gamePercent": "93",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-027.webp",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 20",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 20",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:25 - 14:25",
+        "gamePercent": "85",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-074.webp",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 10",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:17 - 18:41",
+        "gamePercent": "77",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-079.webp",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 20",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:37 - 14:01",
+        "gamePercent": "37",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-084.webp",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:57 - 16:21",
+        "gamePercent": "57",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-085.webp",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 20",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:13 - 14:49",
+        "gamePercent": "73",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-086.webp",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:37 - 14:01",
+        "gamePercent": "97",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-117.webp",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 50",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 100",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "13:27 - 16:51",
+        "gamePercent": "87",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/pg-133.webp",
+        "providerIcon": "images/icons/pg.png",
+        "gameTable": [
+            {
+                "key": "Auto 10",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "13:47 - 18:11",
+        "gamePercent": "47",
+        "gameLevel": ""
+    }
+]

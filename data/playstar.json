@@ -1,0 +1,1842 @@
+[
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-0001.jpg",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "14:13 - 15:49",
+        "gamePercent": "73",
+        "gameLevel": "hot-game"
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-0002.jpg",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 20",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:07 - 15:31",
+        "gamePercent": "67",
+        "gameLevel": "hot-game"
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-003.jpg",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:39 - 17:27",
+        "gamePercent": "39",
+        "gameLevel": "hot-game"
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-004.jpg",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 20",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 10",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "14:20 - 16:20",
+        "gamePercent": "80",
+        "gameLevel": "hot-game"
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-005.jpg",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 70",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 10",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "14:15 - 17:15",
+        "gamePercent": "75",
+        "gameLevel": "hot-game"
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-006.jpg",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:14 - 16:02",
+        "gamePercent": "74",
+        "gameLevel": "hot-game"
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-008.jpg",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:49 - 15:37",
+        "gamePercent": "49",
+        "gameLevel": "hot-game"
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-07.jpg",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 10",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:12 - 14:36",
+        "gamePercent": "72",
+        "gameLevel": "hot-game"
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-09.jpg",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 10",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:55 - 15:55",
+        "gamePercent": "55",
+        "gameLevel": "hot-game"
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-14.jpg",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 20",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "14:37 - 15:01",
+        "gamePercent": "97",
+        "gameLevel": "hot-game"
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-20.jpg",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 70",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 10",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "14:15 - 17:15",
+        "gamePercent": "75",
+        "gameLevel": "top-game"
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-23.jpg",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 100",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "14:29 - 19:17",
+        "gamePercent": "89",
+        "gameLevel": "top-game"
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-28.jpg",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 10",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:55 - 15:55",
+        "gamePercent": "55",
+        "gameLevel": "top-game"
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-29.jpg",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [],
+        "gameHour": "14:25 - 15:25",
+        "gamePercent": "25",
+        "gameLevel": "top-game"
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-30.jpg",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "14:19 - 15:07",
+        "gamePercent": "79",
+        "gameLevel": "top-game"
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-31.jpg",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 20",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:13 - 15:49",
+        "gamePercent": "73",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-54.jpg",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 70",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "14:27 - 17:51",
+        "gamePercent": "87",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-71.jpg",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 20",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:13 - 15:49",
+        "gamePercent": "73",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-77.jpg",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 70",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 10",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "14:21 - 17:33",
+        "gamePercent": "81",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-25.png",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 100",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "14:17 - 19:41",
+        "gamePercent": "77",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-10.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 10",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "14:35 - 19:35",
+        "gamePercent": "95",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-11.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 20",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:35 - 19:35",
+        "gamePercent": "35",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-12.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 70",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 10",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "14:15 - 17:15",
+        "gamePercent": "75",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-13.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [],
+        "gameHour": "14:29 - 19:17",
+        "gamePercent": "29",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-15.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 10",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "14:23 - 19:59",
+        "gamePercent": "83",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-16.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 100",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "14:59 - 19:47",
+        "gamePercent": "59",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-17.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "14:13 - 15:49",
+        "gamePercent": "73",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-18.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 50",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "14:39 - 17:27",
+        "gamePercent": "39",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-19.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 10",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:07 - 15:31",
+        "gamePercent": "67",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-21.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:03 - 17:39",
+        "gamePercent": "63",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-22.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:01 - 15:13",
+        "gamePercent": "61",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-24.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 50",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 100",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "14:15 - 17:15",
+        "gamePercent": "75",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-26.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 10",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:41 - 19:53",
+        "gamePercent": "41",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-27.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 20",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 20",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "14:25 - 15:25",
+        "gamePercent": "85",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-32.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:09 - 17:57",
+        "gamePercent": "69",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-33.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [],
+        "gameHour": "14:27 - 17:51",
+        "gamePercent": "27",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-34.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:57 - 17:21",
+        "gamePercent": "57",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-35.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 20",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:37 - 15:01",
+        "gamePercent": "97",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-36.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:51 - 17:03",
+        "gamePercent": "51",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-37.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 20",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:31 - 15:43",
+        "gamePercent": "31",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-38.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [],
+        "gameHour": "14:25 - 15:25",
+        "gamePercent": "25",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-39.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:39 - 17:27",
+        "gamePercent": "39",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-40.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "14:19 - 15:07",
+        "gamePercent": "79",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-41.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 20",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 100",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:49 - 15:37",
+        "gamePercent": "49",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-42.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [],
+        "gameHour": "14:29 - 19:17",
+        "gamePercent": "29",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-43.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 100",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "14:47 - 19:11",
+        "gamePercent": "47",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-44.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:01 - 15:13",
+        "gamePercent": "61",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-45.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [],
+        "gameHour": "14:27 - 17:51",
+        "gamePercent": "27",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-46.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 10",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "14:11 - 19:23",
+        "gamePercent": "71",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-47.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:51 - 17:03",
+        "gamePercent": "51",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-48.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 30",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "14:25 - 15:25",
+        "gamePercent": "85",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-49.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [],
+        "gameHour": "14:25 - 15:25",
+        "gamePercent": "25",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-50.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 10",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 30",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:05 - 19:05",
+        "gamePercent": "65",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-51.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:51 - 17:03",
+        "gamePercent": "51",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-52.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:07 - 15:31",
+        "gamePercent": "67",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-53.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 50",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "14:33 - 17:09",
+        "gamePercent": "33",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-55.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:33 - 17:09",
+        "gamePercent": "33",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-56.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 20",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "14:55 - 15:55",
+        "gamePercent": "55",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-57.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [],
+        "gameHour": "14:25 - 15:25",
+        "gamePercent": "25",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-58.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 100",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:47 - 19:11",
+        "gamePercent": "47",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-59.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:39 - 17:27",
+        "gamePercent": "39",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-60.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:39 - 17:27",
+        "gamePercent": "39",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-61.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 10",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "14:17 - 19:41",
+        "gamePercent": "77",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-62.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:09 - 17:57",
+        "gamePercent": "69",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-63.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [],
+        "gameHour": "14:25 - 15:25",
+        "gamePercent": "25",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-64.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 20",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "14:43 - 15:19",
+        "gamePercent": "43",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-65.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 10",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "14:11 - 19:23",
+        "gamePercent": "71",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-66.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:21 - 17:33",
+        "gamePercent": "81",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-67.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 10",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:07 - 15:31",
+        "gamePercent": "67",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-68.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 50",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 100",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "14:15 - 17:15",
+        "gamePercent": "75",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-69.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 10",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:47 - 19:11",
+        "gamePercent": "47",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-70.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 100",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "14:35 - 19:35",
+        "gamePercent": "95",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-72.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 30",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 9",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:31 - 15:43",
+        "gamePercent": "31",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-73.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:39 - 17:27",
+        "gamePercent": "39",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-74.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 70",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:45 - 17:45",
+        "gamePercent": "45",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-75.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [],
+        "gameHour": "14:25 - 15:25",
+        "gamePercent": "25",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-76.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 20",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "14:12 - 14:36",
+        "gamePercent": "72",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-78.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 20",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 7",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "14:37 - 15:01",
+        "gamePercent": "37",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-79.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 20",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 30",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Auto 50",
+                "name": "Turbo On",
+                "value": "text-success"
+            }
+        ],
+        "gameHour": "14:18 - 14:54",
+        "gamePercent": "78",
+        "gameLevel": ""
+    },
+    {
+        "gameLink": "",
+        "gameImage": "images/games/playstar-80.webp",
+        "providerIcon": "images/icons/playstar.png",
+        "gameTable": [
+            {
+                "key": "Auto 20",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            },
+            {
+                "key": "Manual 3",
+                "name": "Turbo On",
+                "value": "text-success"
+            },
+            {
+                "key": "Manual 5",
+                "name": "Turbo Off",
+                "value": "text-danger"
+            }
+        ],
+        "gameHour": "14:01 - 15:13",
+        "gamePercent": "61",
+        "gameLevel": ""
+    }
+]

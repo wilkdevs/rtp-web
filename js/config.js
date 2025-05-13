@@ -1,0 +1,169 @@
+const firstColor = "rgb(245, 176, 66)"; // ganti firstColor dan fifthColor jika ingin mengubah warna kartu game nya
+const secondColor = "rgb(218, 165, 32)";
+const thirdColor = "rgb(250, 235, 215)";
+const fourthColor = "rgb(184, 134, 11)";
+const fifthColor = "rgb(207, 181, 59)";
+
+const g1Color = "rgb(184, 134, 11)";
+const g2Color = "rgb(207, 181, 59)";
+
+// PENGATURAN STYLE KONTEN WEBSITE
+const contentWith = '1400px'; // Lebar Konten : 100% jika mau fullscreen
+const contentBackground = "images/background.jpg"; // BACKDROUND KONTEN - wajib diganti
+const gamesColumn = 4; // Kolom Daftar Game, Opsi : 6, 4 3 aja.
+
+// DATA WEBSITE 
+const websiteURL = "https://google.com/"; // URL WEBSITE - wajib diganti
+const websiteURLRegister = "https://google.com/"; // URL MENDAFTAR WEBSITE - wajib diganti
+const websiteURLPromo = "https://google.com/"; // URL PROMOSI WEBSITE - wajib diganti
+const websiteLogo = "images/logo.png"; // wajib diganti
+const websiteName = "BRAND123"; // wajib diganti
+const websiteDesc = "agen slot terpercaya yang menyediakan rtp slot pasti maxwin hanya dengan modal receh "; // wajib diganti
+const contactWhatsapp = "6282100000000"; // wajib diganti
+const contactTelegramUrl = "https://t.me/cilla_chill"; // wajib diganti
+
+// Ubah ini untuk menentukan per berapa menit nilai persen dan range jam di daftar game berubah 
+const CONSISTENCY_DURATION = 30; // dalam menit
+
+// TULISAN RUNNING TEXT DIBAWAH LOGO
+const runningTextData = {
+    text: "SELAMAT DATANG DI BRAND123 AGEN SLOT GACOR MODAL KECIL PASTI MAXWIN", // wajib diganti
+    background: "#c9a639",  // Warna Background
+    fontWeight: "500",  // Font weight
+    textTransform: "uppercase", 
+    fontSize: "1rem",  // Ukuran Huruf
+    color: "#333333",  // Warna Text
+    padding: "0.1rem" 
+};
+
+// BANNER - SLIDING
+const bannersSectionData = [
+    {
+        "image": "images/banners/banner-1.jpg", //  wajib diganti
+        "alt": "slider 1" //  abaikan aja
+    },
+    {
+        "image": "images/banners/banner-2.jpg", //  wajib diganti
+        "alt": "slider 2" //  abaikan aja
+    },
+    {
+        "image": "images/banners/banner-3.jpg", // wajib diganti
+        "alt": "slider 3" //  abaikan aja
+    }
+];
+
+// TOMBOL LOGIN DAN DAFTAR DIBAWAH BANNER
+const websiteButtonSectionData = [
+    {
+        text: "LOGIN",
+        url: "https://www.google.com", //  wajib diganti
+        background: "linear-gradient(0deg, #f5b042 0%, #ffcc70 100%)",
+        hoverBackground: "linear-gradient(0deg, #ffcc70 0%, #f5b042 100%)",
+        color: "#000000",
+        hoverColor: "#000000",
+        border: "1px solid #f5b042"
+    },
+    {
+        text: "DAFTAR",
+        url: "https://www.google.com", //  wajib diganti
+        background: "linear-gradient(0deg, #ff7f50 0%, #ffa07a 100%)",
+        hoverBackground: "linear-gradient(0deg, #ffa07a 0%, #ff7f50 100%)",
+        color: "#ffffff",
+        hoverColor: "#ffffff",
+        border: "1px solid #ff7f50"
+    }
+];
+
+// DAFTAR PROVIDER, IDN, Pragmatic, dan sebagainya.
+const providersSectionData = {
+    bgColor: "#f9d784", // background for the entire section
+    providers: [
+        { id: "idn", image: "images/icons/idn.png", name: "IDN Play" },
+        { id: "pp", image: "images/icons/pp.png", name: "Pragmatic Play" },
+        { id: "pg", image: "images/icons/pg.png", name: "PG Soft" },
+        { id: "hb", image: "images/icons/hb.png", name: "Habanero" },
+        { id: "gmw", image: "images/icons/gmw.png", name: "Spade Gaming" },
+        { id: "tg", image: "images/icons/tg.png", name: "Top Trend" },
+        { id: "mg", image: "images/icons/mg.png", name: "Micro Gaming" },
+        { id: "nolimit", image: "images/icons/nolimit.png", name: "Nolimit" },
+        { id: "playstar", image: "images/icons/playstar.png", name: "Playstar" },
+        { id: "idnlottery", image: "images/icons/idnlottery.png", name: "E-lottery" },
+    ]
+};
+
+// DESKRIPSI PROVIDER
+const gameSectionData = {
+    "gmw": {
+        description: "GMW SLOT LIVE RTP", // boleh diganti, boleh nggak
+        rating: 3.0,
+        like: "4.0K",
+        items : "data/gmw.json"
+    },
+    "hb": {
+        description: "HABANERO SLOT LIVE RTP",  // boleh diganti, boleh nggak
+        rating: 4.0,
+        like: "5.1K",
+        items : "data/hb.json"
+    },
+    "idn": {
+        description: "IDN Play SLOT LIVE RTP",  // boleh diganti, boleh nggak
+        rating: 5.0,
+        like: "5.0K",
+        items: "data/idn.json"
+    },
+    "idnlottery": {
+        description: "Game belum tersedia",  // boleh diganti, boleh nggak
+        rating: 0,
+        like: "0",
+        items : "data/idnlottery.json"
+    },
+    "mg": {
+        description: "MICRO GAMING SLOT LIVE RTP",  // boleh diganti, boleh nggak
+        rating: 3.0,
+        like: "3.8K",
+        items : "data/mg.json"
+    },
+    "nolimit": {
+        description: "NOLIMIT SLOT LIVE RTP",  // boleh diganti, boleh nggak
+        rating: 3.0,
+        like: "3.8K",
+        items : "data/nolimit.json"
+    },
+    "pg": {
+        description: "POCKET GAMING SLOT LIVE RTP",  // boleh diganti, boleh nggak
+        rating: 3.0,
+        like: "3.8K",
+        items : "data/pg.json"
+    },
+    "pp": {
+        description: "PRAGMATIC PLAY SLOT LIVE RTP", // boleh diganti, boleh nggak
+        rating: 5.0,
+        like: '5.9K',
+        items : "data/pp.json"
+    },
+    "tg": {
+        description: "TOP TREND GAMING SLOT LIVE RTP", // boleh diganti, boleh nggak
+        rating: 3.0,
+        like: '3.5K',
+        items : "data/tg.json"
+    }
+};
+
+
+// TOMBOL FLOATING YANG CUMA TAMPIL DI DESKTOP
+const floatingButtons = [
+    {
+        "id": "promo-btn",
+        "type": "link",
+        "url": "https://linkku.me/7wA5NB",
+        "image": "images/buttons/promo.gif",
+        "alt": "Promosi"
+    },
+    {
+        "id": "contact-btn",
+        "type": "modal",
+        "modalTarget": "#contact",
+        "image": "images/buttons/whatsapp.gif",
+        "alt": "WhatsApp"
+    }
+]
