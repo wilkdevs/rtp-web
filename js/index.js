@@ -362,7 +362,7 @@ function loadMoreGames() {
     playButton.className = 'btn-play shadow';
     playButton.innerHTML = '<i class="lni lni-heart-fill"></i> Mari Bermain';
     playButton.style.display = 'none';
-    playButton.onclick = () => location.href = mainWebsite;
+    playButton.onclick = () => window.open(websiteURL, '_blank');
     
     
     const img = document.createElement('img');
