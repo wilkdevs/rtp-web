@@ -17,6 +17,7 @@ document.addEventListener("DOMContentLoaded", function () {
   document.documentElement.style.setProperty('--fifth-color', fifthColor);
   document.documentElement.style.setProperty('--g1', g1Color);
   document.documentElement.style.setProperty('--g2', g2Color);
+  document.documentElement.style.setProperty('--slider-background', bannerBackground);
 });
 
 document.addEventListener("DOMContentLoaded", function () {
@@ -105,6 +106,7 @@ document.addEventListener("DOMContentLoaded", function () {
     img.src = banner.image;
     img.loading = 'lazy';
     img.classList.add('slider-img', 'rounded');
+    img.style.objectFit = 'contain';
     img.alt = banner.alt;
     
     slide.appendChild(img);

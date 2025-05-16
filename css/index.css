@@ -16,6 +16,7 @@
     --fifth-color: #002550;
     --g1: #0053a0;
     --g2: #003e86;
+    --slider-background: #003e86;
 }
 
 body {
@@ -214,7 +215,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #000; /* fallback background */
+    background: var(--slider-background); 
 }
 
 .slider-img {

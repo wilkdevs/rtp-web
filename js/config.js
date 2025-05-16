@@ -16,6 +16,7 @@
  *    - contentWith: lebar maksimum konten utama (px atau 100% untuk fullscreen). 💻
  *    - contentBackground: gambar latar belakang utama website. 🖼️
  *    - gamesColumn: jumlah kolom daftar game (3, 4, atau 6). 📊
+ *    - bannerBackground: Warna Latar Belakang Banner. 📊
  * 
  * 4. Informasi Dasar Website: 🌐
  *    - websiteURL, websiteURLRegister, websiteURLPromo: link utama, pendaftaran, dan promosi. 🔗
@@ -61,6 +62,7 @@ const g2Color = "rgb(207, 181, 59)"; // 🎯
 const contentWith = '1400px'; // 🖥️
 const contentBackground = "images/background.jpg"; // 🖼️
 const gamesColumn = 4; // 📊
+const bannerBackground = "rgb(0, 0, 0)"; // 🎯
 
 // DATA WEBSITE 
 const websiteURL = "https://google.com/"; // 🌐
